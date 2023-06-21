@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[ID_Editura] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Nume] NVARCHAR(MAX) NOT NULL
+)
